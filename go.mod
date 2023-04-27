@@ -1,3 +1,3 @@
-module github.com/peterhellberg/giphy
+module github.com/hewen/giphy
 
 go 1.17
